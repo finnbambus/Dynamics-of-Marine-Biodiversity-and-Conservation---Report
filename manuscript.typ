@@ -81,7 +81,7 @@ This report describes the diversity of the Pierre Noire macrobenthic community f
 
 The presented analysis used the Pierre Noire macrobenthic time series from the Bay of Morlaix, which comprises 31 annual community samples ranging from 1977 to 2007 @dauvinFineSandAbra1998. The dataset was provided as course material for the course "Dynamics of Biodiversity and Conservation" at the Roscoff Biological Station. It contained a species-by-year abundance matrix (381 species), a taxonomic classification (genus, family, order, class and phylum) and fuzzy-coded biological traits for 224 taxa (8 traits, 36 modalities). Functional indices were calculated from the abundances of the taxa for which trait information was available. Each year was treated as one sampling unit. All analyses were done in R with the packages `vegan`, `FD`, `strucchange` and `ggplot2`, and this manuscript was compiled with Typst.
 
-#note-block(title: "Data availability")[The underlying data, R code, resulting plots and the manuscript's .typ file are available in this project's GitHub repository: [input link of repo]]
+#note-block(title: "Data availability")[The underlying data, R code, resulting plots and the manuscript's .typ file are available in this project's GitHub repository: #underline(link("https://github.com/finnbambus/Dynamics-of-Marine-Biodiversity-and-Conservation---Report"))]
 
 == Alpha diversity
 
